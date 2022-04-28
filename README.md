@@ -1,2 +1,11 @@
-# movies-spa_04
-Exercício 4  de atualização do repositório movies-spa_03
+# Pontifícia Universidade Católica de Minas Gerais
+
+ **Curso:** Desenvolvimento web Full Stack
+ 
+ **Disciplina:** Frameworks front end React
+ 
+ **Professor:** Samuel Martins
+ 
+ **Exercício 04:**  Neste exercício foi sugerido pelo professor a criação de um SPA atraves do Rect ultilizando o The Movies Database, uma API gratuita para consulta de filmes e séries!
+  ### SPA - React
+ **Importante.: Os conteúdos apresentados foram apenas para análise do React e seus recursos afim de estudo.**
