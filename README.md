@@ -12,4 +12,4 @@
  
  [**Veja também outros exercícios sugeridos _SPA - REACT_**](https://github.com/IgorMundim/react_movies-spa.git)
  
- [**Veja também outros exercícios sugeridos SSR - _REACT/NEXT_**](https://github.com/IgorMundim/react-next_movies-ssr.git)
+ [**Veja também outros exercícios sugeridos _SSR - REACT/NEXT_**](https://github.com/IgorMundim/react-next_movies-ssr.git)
