@@ -1,0 +1,60 @@
+.background-fixed img{
+    background-size: cover;
+    position: fixed;
+    height: 100vh;
+    width: 100%;
+    opacity: 0.5;
+}
+.conteiner-movie {
+    position: relative;
+    display: flex;
+    width: 90vw;
+    left: 5vw;
+    top: 2rem;
+}
+.conteiner-movie__about {
+    position: relative;
+    margin-left: 2rem;
+}
+.conteiner-movie__title {
+    font-size: 3rem;
+    font-weight: bold;
+    letter-spacing: .1rem;
+}
+.conteiner-movie__title span{
+    margin-right: 1rem;
+}
+.conteiner-movie__subtitle {
+   
+    font-size: 1.5rem;
+}
+.conteiner-movie__sinopse{
+    margin-top: 1rem;
+}
+.conteiner-movie__sinopseTitle{
+    font-size: 2rem;
+}
+.conteiner-movie__sinopseContent{
+    margin-top: .5rem;
+    font-size: 1.5rem;
+}
+.conteiner-movie__subtitle__leg {
+    text-transform: uppercase;
+}
+.conteiner-movie__link{
+    width: 30rem;
+}
+@media screen and (max-width: 1024px){
+    .conteiner-movie__link{
+        width: 100%;
+        height: 80%;
+        align-items: center;
+        position: relative;
+        
+    }
+    .conteiner-movie__about {
+        position: absolute;
+        top: 83%;
+        width: 100%;
+    }
+}
